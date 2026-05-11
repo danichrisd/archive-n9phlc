@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danichrisd.github.io/archive-n9phlc/sitemap.xml
